@@ -1,0 +1,31 @@
+body{
+    background-color: #FFFFFF;
+}
+
+.mapdiv{
+    width:60%;
+    margin: auto;
+
+
+}
+
+.mapdiv path {
+
+    stroke: #000000;
+    stroke-width:4px;
+    
+    
+}
+
+.mapdiv :hover {
+    fill:#000;
+}
+
+.clr h1{
+font-size:34px;
+color: #059BD8;
+font-familty:Georgia;
+text-align:center;
+padding: 50px;
+
+}
